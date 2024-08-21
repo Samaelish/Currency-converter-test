@@ -1,8 +1,9 @@
-# React + Vite
+# Калькулятор курса валют с использованием API. Приложение должно позволять пользователю вводить сумму в одной валюте и получать эквивалентную сумму в другой валюте по текущему курсу.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Требования:
 
-Currently, two official plugins are available:
+### Использовать JavaScript и любой современный фреймворк (например, React или Vue.js). Получать курсы валют через API (например, ExchangeRatesAPI https://exchangeratesapi.io/ или любой другой доступный вам). Реализовать асинхронные запросы с обработкой ошибок. Приложение должно включать минимальный дизайн и быть адаптивным для разных устройств.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Website Pic](/readmeImg.jpg)
+
+# [Смотреть демо]()
